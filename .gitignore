@@ -1,0 +1,8 @@
+# Maven
+target/
+build.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+atlassian-ide-plugin.xml
